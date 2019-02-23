@@ -1,0 +1,30 @@
+$fzh1: 80px;
+$fzspan: 60px;
+$colorSpan: #00ccff;
+
+header{
+    nav{
+        a{
+            text-decoration: none;
+            font-size: $fzh1/2;
+        }
+        ul{
+            li{
+                list-style: none;
+                font-size: $fzh1/3;
+            }
+        }
+    }
+}
+
+h1{
+    color: #00cc66;
+    font-size: $fzh1;
+    span{
+        font-size: $fzspan;
+        vertical-align: top;
+        font-weight: bolder;
+        text-decoration: underline;
+        color: $colorSpan;
+    }
+}

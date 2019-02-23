@@ -1,0 +1,17 @@
+header nav a {
+  text-decoration: none;
+  font-size: 40px; }
+
+header nav ul li {
+  list-style: none;
+  font-size: 26.66667px; }
+
+h1 {
+  color: #00cc66;
+  font-size: 80px; }
+  h1 span {
+    font-size: 60px;
+    vertical-align: top;
+    font-weight: bolder;
+    text-decoration: underline;
+    color: #00ccff; }
